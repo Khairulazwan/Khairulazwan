@@ -19,11 +19,12 @@
 <code><img src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=white"></code>
 
 
-## &#x1f4c8; GitHub Stats
+## 📊 GitHub Stats Visualization
 
-![Khairulazwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairulazwan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairulazwan&theme=radical)
-
+<a href="https://github.com/khairulazwan/github-stats">
+  <img src="https://github.com/khairulazwan/github-stats/blob/master/generated/overview.svg" alt="GitHub Overview Stats">
+  <img src="https://github.com/khairulazwan/github-stats/blob/master/generated/languages.svg" alt="GitHub Languages Stats">
+</a>
 <!---
 Khairulazwan/Khairulazwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
