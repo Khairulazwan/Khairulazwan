@@ -21,9 +21,9 @@
 
 ## 📊 GitHub Stats Visualization
 
-<a href="https://github.com/khairulazwan/github-stats">
-  <img src="https://github.com/khairulazwan/github-stats/blob/master/generated/overview.svg" alt="GitHub Overview Stats">
-  <img src="https://github.com/khairulazwan/github-stats/blob/master/generated/languages.svg" alt="GitHub Languages Stats">
+<a href="https://github.com/Khairulazwan/github-stats">
+  <img src="https://github.com/Khairulazwan/github-stats/blob/master/generated/overview.svg" alt="GitHub Overview Stats">
+  <img src="https://github.com/Khairulazwan/github-stats/blob/master/generated/languages.svg" alt="GitHub Languages Stats">
 </a>
 <!---
 Khairulazwan/Khairulazwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
