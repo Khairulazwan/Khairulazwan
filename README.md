@@ -26,7 +26,7 @@
   <img src="https://github.com/Khairulazwan/github-stats/blob/master/generated/languages.svg" alt="GitHub Languages Stats">
 </a>
 
-## 🐍 Few But Mighty Contributions
+## 🐍 It ain't much but it's honest work.
 
 <div align="center">
   <picture>
