@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats Visualization
 
 <a href="https://github.com/Khairulazwan/github-stats">
-  <img src="https://github.com/Khairulazwan/github-stats/blob/master/generated/overview.svg" alt="GitHub Overview Stats">
+  <img src="https://raw.githubusercontent.com/Khairulazwan/github-stats/blob/master/generated/overview.svg" alt="GitHub Overview Stats">
   <img src="https://github.com/Khairulazwan/github-stats/blob/master/generated/languages.svg" alt="GitHub Languages Stats">
 </a>
 
