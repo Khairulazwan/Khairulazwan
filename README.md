@@ -1,4 +1,4 @@
-![Khairulazwan](https://gh-stats.com/api/Khairulazwan?widgets=impact%2Clanguages%2Cfocus%2Cstreaks)
+![khairulazwan](https://gh-stats.com/api/khairulazwan?theme=clean&widgets=impact%2Cstreaks%2Cfocus%2Clanguages%2Cachievements)
 
 
 <!-- [![Header](https://raw.githubusercontent.com/khairulazwan/khairulazwan/main/readme_header.png "Header")]() -->
