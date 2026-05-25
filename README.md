@@ -1,6 +1,4 @@
-
 ## Hi! I'm Khairulazwan <img src="https://raw.githubusercontent.com/mfirdausj/mfirdausj/main/assets/wave.gif" width="30px">
-
 
 ## 🐍 It ain't much but it's honest work.
 
@@ -12,10 +10,30 @@
   </picture>
 </div>
 
-![khairulazwan](https://gh-stats.com/api/khairulazwan?theme=clean&widgets=impact%2Cstreaks%2Cfocus%2Clanguages%2Cachievements)
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://gh-stats.com/api/khairulazwan?widgets=impact">
+    </td>
+    <td align="center">
+      <img src="https://gh-stats.com/api/khairulazwan?widgets=streaks">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://gh-stats.com/api/khairulazwan?widgets=focus">
+    </td>
+    <td align="center">
+      <img src="https://gh-stats.com/api/khairulazwan?widgets=achievements">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://gh-stats.com/api/khairulazwan?widgets=languages">
+    </td>
+  </tr>
+</table>
 
 <hr>
-<!---
-Khairulazwan/Khairulazwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
