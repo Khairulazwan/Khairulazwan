@@ -1,3 +1,5 @@
+![Khairulazwan](https://gh-stats.com/api/Khairulazwan?widgets=impact%2Clanguages%2Cfocus%2Cstreaks)
+
 
 <!-- [![Header](https://raw.githubusercontent.com/khairulazwan/khairulazwan/main/readme_header.png "Header")]() -->
 
@@ -19,12 +21,17 @@
 <code><img src="https://img.shields.io/badge/Laravel-FF0000?style=for-the-badge&logo=laravel&logoColor=white"></code>
 
 
-## 📊 GitHub Stats Visualization
+## 📊 GitHub Stats
 
-<a href="https://github.com/Khairulazwan/github-stats">
-  <img src="https://raw.githubusercontent.com/Khairulazwan/github-stats/master/generated/overview.svg?ts=1" alt="GitHub Overview Stats">
-  <img src="https://raw.githubusercontent.com/Khairulazwan/github-stats/master/generated/languages.svg?ts=1" alt="GitHub Languages Stats">
-</a>
+<div align="center">
+  <img src="https://gh-stats.com/api/Khairulazwan?widgets=stars,commits,prs,issues" alt="GitHub Stats">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://gh-stats.com/api/Khairulazwan?widgets=languages" alt="Top Languages">
+</div>
 
 ## 🐍 It ain't much but it's honest work.
 
