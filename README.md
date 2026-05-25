@@ -25,11 +25,6 @@
     <td align="center">
       <img src="https://gh-stats.com/api/khairulazwan?widgets=focus">
     </td>
-    <td align="center">
-      <img src="https://gh-stats.com/api/khairulazwan?widgets=achievements">
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://gh-stats.com/api/khairulazwan?widgets=languages">
     </td>
